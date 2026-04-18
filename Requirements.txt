@@ -1,9 +1,0 @@
-streamlit 
-scikit-learn
-nltk 
-pandas
-numpy
-streamlit
-scikit-learn
-nltk
-numpy
